@@ -24,7 +24,7 @@
 
 <div align="center">
   <img width="450" height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=Educpf&hide=prs&count_private=true&show_icons=true&theme=github_dark">
-    <img width="340" height="154" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educpf&layout=compact&hide=Makefile,Cmake,Shell,Starlark,M4,Html,teX&line_height=27">
+    <img width="340" height="154" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educpf&layout=compact&theme=github_dark&hide=Makefile,Cmake,Shell,Starlark,M4,Html,teX&line_height=27">
 </div>
 
 

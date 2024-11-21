@@ -30,12 +30,6 @@
 
 
 
-## About me
-
-<p align="center">
-
-</p>
-
 
 
 

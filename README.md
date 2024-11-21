@@ -32,7 +32,7 @@
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,haskell,js,html,css,php)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,haskell,js,html,css,php,laravel)
 
 </div>
 
